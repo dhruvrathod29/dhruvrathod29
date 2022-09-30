@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvrathod29&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvrathod29" /> </p>
 
 
- <img align="left src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=".Net Developer"  width="400">
+ <img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=".Net Developer" align="left" width="400">
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhruvrathod29](https://github.com/dhruvrathod29)
 
