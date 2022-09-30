@@ -1,6 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8X1nc9wJPnPeWz-tG9utFhymDANafzm1xrQ&usqp=CAU)]
-
-
+[![MasterHead](https://previews.123rf.com/images/wrightstudio/wrightstudio1908/wrightstudio190800034/128090625-asp-net-development-programming-language-concept-on-virtual-screen-.jpg)]
 
 <h1 align="center">Hi 👋, I'm Dhruv Rathod</h1>
 <h3 align="center">I'm Web Developer | .NET Developer</h3>
@@ -8,9 +6,8 @@
 
  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=".Net Developer" aline="rigth" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvrathod29&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvrathod29" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvrathod29" alt="dhruvrathod29" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvrathod29&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvrathod29" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhruvrathod29](https://github.com/dhruvrathod29)
 
