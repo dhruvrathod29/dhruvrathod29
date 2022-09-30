@@ -4,10 +4,12 @@
 <h3 align="center">I'm Web Developer | .NET Developer</h3>
 
 
- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=".Net Developer" aline="left" width="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvrathod29&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvrathod29" /> </p>
+
+
+ <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=".Net Developer" aline="left" width="400">
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhruvrathod29](https://github.com/dhruvrathod29)
 
