@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/wrightstudio/wrightstudio1908/wrightstudio190800034/128090625-asp-net-development-programming-language-concept-on-virtual-screen-.jpg)
+![MasterHead]([https://previews.123rf.com/images/wrightstudio/wrightstudio1908/wrightstudio190800034/128090625-asp-net-development-programming-language-concept-on-virtual-screen-.jpg](https://previews.123rf.com/images/wrightstudio/wrightstudio2102/wrightstudio210200175/163602087-asp-net-web-application-software-development-platform-programming-language-.jpg))
 
 <h1 align="center">Hi 👋, I'm Dhruv Rathod</h1>
 <h3 align="center">I'm Web Developer | .NET Developer</h3>
