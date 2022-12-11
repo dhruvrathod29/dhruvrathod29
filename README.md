@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvrathod29&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvrathod29" /> </p>
+
 
 
 
@@ -18,6 +18,8 @@
 - 💬 Ask me about **Asp.Net, .Net MVC, Net Core MVC**
 
 - 📫 How to reach me **dhruvrathod3110@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvrathod29&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvrathod29" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
